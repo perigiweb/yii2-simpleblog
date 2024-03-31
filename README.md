@@ -14,7 +14,7 @@ INSTALLATION
 1. Clone this git repo & run composer install
 
 ```bash
-git clone https://github.com/perigidev/yii2-simpleblog.git
+git clone https://github.com/perigiweb/yii2-simpleblog.git
 
 cd yii2-simpleblog
 

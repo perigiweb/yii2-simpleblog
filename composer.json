@@ -1,12 +1,12 @@
 {
-    "name": "perigidev/yii-simpleblog",
+    "name": "perigidev/yii2-simpleblog",
     "description": "Yii 2 simple blogging. Implementing register, login user and posting article for logged in user.",
     "keywords": ["yii2", "framework", "php", "mysql", "yii 2 example project"],
     "homepage": "https://perigi.my.id/",
     "type": "project",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/perigidev/yii-microblog/issues?state=open"
+        "issues": "https://github.com/perigiweb/yii2-simpleblog/issues"
     },
     "minimum-stability": "stable",
     "require": {
